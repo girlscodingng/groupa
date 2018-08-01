@@ -1,0 +1,17 @@
+.footer .bottom{
+    background-color:rgba(0, 0, 0, 0.529);
+    padding:5px 5px 5px 5px;
+    color:cyan;
+}
+footer{
+    margin-top: 100px;
+}
+
+footer h4{
+text-align: center;
+}
+
+.row img{
+    display: block;
+    margin:auto;
+}
